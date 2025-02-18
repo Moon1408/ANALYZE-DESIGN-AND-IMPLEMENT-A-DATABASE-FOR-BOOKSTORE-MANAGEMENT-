@@ -32,17 +32,17 @@ B5: Thiết kế ràng buộc toàn vẹn
 
 B6: Triển khai cơ sở dữ liệu trên ms sql server 
 
-  B6.1: Xây dựng cơ sở dữ liệu 
-  
-  B6.2: Nhập dữ liệu mẫu 
-  
-  B6.3: Cài các ràng buộc toàn vẹn
-
-    + Ràng buộc check
-      
-    + Ràng buộc trigger
+    B6.1: Xây dựng cơ sở dữ liệu 
     
-  B6.4: Cài các store procedure
+    B6.2: Nhập dữ liệu mẫu 
+    
+    B6.3: Cài các ràng buộc toàn vẹn
+
+      + Ràng buộc check
+        
+      + Ràng buộc trigger
+    
+    B6.4: Cài các store procedure
 
 **5. Kết quả:** 
 
